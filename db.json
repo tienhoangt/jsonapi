@@ -1,13 +1,124 @@
 {
-  "webs": [
-    {
-      "id":1,
-    "webid":"vnexpress",
-    "url":"https://vnexpress.net",
-    "source_name":"VnExpress",
-    "topics" : [
-    		{"title":"Trang chủ","topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"},{"title":"Thế giới","topic_link_rss":"https://vnexpress.net/rss/the-gioi.rss"},{"title":"Thời sự","topic_link_rss":"https://vnexpress.net/rss/thoi-su.rss"},{"title":"Kinh doanh","topic_link_rss":"https://vnexpress.net/rss/kinh-doanh.rss"},{"title":"Startup","topic_link_rss":"https://vnexpress.net/rss/startup.rss"},{"title":"Giải trí","topic_link_rss":"https://vnexpress.net/rss/giai-tri.rss"},{"title":"Thể thao","topic_link_rss":"https://vnexpress.net/rss/the-thao.rss"},{"title":"Pháp luật","topic_link_rss":"https://vnexpress.net/rss/phap-luat.rss"},{"title":"Giáo dục","topic_link_rss":"https://vnexpress.net/rss/giao-duc.rss"},{"title":"Tin mới nhất","topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"},{"title":"Tin nổi bật","topic_link_rss":"https://vnexpress.net/rss/tin-noi-bat.rss"},{"title":"Sức khỏe","topic_link_rss":"https://vnexpress.net/rss/suc-khoe.rss"},{"title":"Đời sống","topic_link_rss":"https://vnexpress.net/rss/gia-dinh.rss"},{"title":"Du lịch","topic_link_rss":"https://vnexpress.net/rss/du-lich.rss"},{"title":"Khoa học","topic_link_rss":"https://vnexpress.net/rss/khoa-hoc.rss"},{"title":"Số hóa","topic_link_rss":"https://vnexpress.net/rss/so-hoa.rss"},{"title":"Xe","topic_link_rss":"https://vnexpress.net/rss/oto-xe-may.rss"},{"title":"Ý kiến","topic_link_rss":"https://vnexpress.net/rss/y-kien.rss"},{"title":"Tâm sự","topic_link_rss":"https://vnexpress.net/rss/tam-su.rss"},{"title":"Cười","topic_link_rss":"https://vnexpress.net/rss/cuoi.rss"},{"title":"Tin xem nhiều","topic_link_rss":"https://vnexpress.net/rss/tin-xem-nhieu.rss"}
-    	]
-    }
-  ]  
+	"category":[
+		{
+			"id":1,
+			"name":"Tin tức"
+		},
+		{
+			"id":2,
+			"name":"Công nghệ"
+		},
+		{
+			"id":3,
+			"name":"Game"
+		}
+	],
+	"source": [
+		{
+			"id":1,
+			"categoryid":1,
+			"url":"https://vnexpress.net",
+			"name":"VnExpress",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://vnexpress.net/rss/the-gioi.rss"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://vnexpress.net/rss/thoi-su.rss"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://vnexpress.net/rss/kinh-doanh.rss"
+				},
+				{
+					"title":"Startup",
+					"topic_link_rss":"https://vnexpress.net/rss/startup.rss"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://vnexpress.net/rss/giai-tri.rss"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://vnexpress.net/rss/the-thao.rss"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://vnexpress.net/rss/phap-luat.rss"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://vnexpress.net/rss/giao-duc.rss"
+				},
+				{
+					"title":"Tin mới nhất",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"
+				},
+				{
+					"title":"Tin nổi bật",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-noi-bat.rss"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://vnexpress.net/rss/suc-khoe.rss"
+				},
+				{
+					"title":"Đời sống",
+					"topic_link_rss":"https://vnexpress.net/rss/gia-dinh.rss"
+				},
+				{
+					"title":"Du lịch",
+					"topic_link_rss":"https://vnexpress.net/rss/du-lich.rss"
+				},
+				{
+					"title":"Khoa học",
+					"topic_link_rss":"https://vnexpress.net/rss/khoa-hoc.rss"
+				},
+				{
+					"title":"Số hóa",
+					"topic_link_rss":"https://vnexpress.net/rss/so-hoa.rss"
+				},
+				{
+					"title":"Xe",
+					"topic_link_rss":"https://vnexpress.net/rss/oto-xe-may.rss"
+				},
+				{
+					"title":"Ý kiến",
+					"topic_link_rss":"https://vnexpress.net/rss/y-kien.rss"
+				},
+				{
+					"title":"Tâm sự",
+					"topic_link_rss":"https://vnexpress.net/rss/tam-su.rss"
+				},
+				{
+					"title":"Cười",
+					"topic_link_rss":"https://vnexpress.net/rss/cuoi.rss"
+				},
+				{
+					"title":"Tin xem nhiều",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-xem-nhieu.rss"
+				}
+			],
+			"link_rss" : ""
+		},
+		{
+			"id":2,
+			"categoryid":1,
+			"url":"https://tuoitre.vn",
+			"name":"Tuổi trẻ Online",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://tuoitre.vn/rss/tin-moi-nhat.rss"
+				}
+			],
+			"link_rss" : ""
+		}
+	]  
 }
