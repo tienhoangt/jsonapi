@@ -19,6 +19,7 @@
 			"categoryid":1,
 			"url":"https://vnexpress.net",
 			"name":"VnExpress",
+			"img_url":"https://s1.vnecdn.net/vnexpress/restruct/i/v374/logos/114x114.png",
 			"topics" : [
 				{
 					"title":"Trang chủ",
@@ -112,6 +113,7 @@
 			"categoryid":1,
 			"url":"https://tuoitre.vn",
 			"name":"Tuổi trẻ Online",
+			"img_url":"https://photos.app.goo.gl/wyHvwytTBwdNPorRA",
 			"topics" : [
 				{
 					"title":"Trang chủ",
