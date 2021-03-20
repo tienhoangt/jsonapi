@@ -140,6 +140,91 @@
 					"title":"Trang chủ",
 					"topic_link_rss":"https://tuoitre.vn/rss/tin-moi-nhat.rss",
 					"image":"trangchu"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://tuoitre.vn/rss/the-gioi.rss",
+					"image":"thegioi"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://tuoitre.vn/rss/thoi-su.rss",
+					"image":"thoisu"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://tuoitre.vn/rss/kinh-doanh.rss",
+					"image":"kinhdoanh"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://tuoitre.vn/rss/phap-luat.rss",
+					"image":"phapluat"
+				},
+				{
+					"title":"Công nghệ",
+					"topic_link_rss":"https://tuoitre.vn/rss/nhip-song-so.rss",
+					"image":"sohoa"
+				},
+				{
+					"title":"Xe",
+					"topic_link_rss":"https://tuoitre.vn/rss/xe.rss",
+					"image":"xe"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://tuoitre.vn/rss/giai-tri.rssss",
+					"image":"giaitri"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://tuoitre.vn/rss/the-thao.rss",
+					"image":"thethao"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://tuoitre.vn/rss/giao-duc.rss",
+					"image":"giaoduc"
+				},
+				{
+					"title":"Nhịp sống trẻ",
+					"topic_link_rss":"https://tuoitre.vn/rss/nhip-song-tre.rss",
+					"image":"doisong"
+				},
+				{
+					"title":"Văn hóa",
+					"topic_link_rss":"https://tuoitre.vn/rss/van-hoa.rss",
+					"image":"vanhoa"
+				},
+				{
+					"title":"Khoa học",
+					"topic_link_rss":"https://tuoitre.vn/rss/khoa-hoc.rss",
+					"image":"khoahoc"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://tuoitre.vn/rss/suc-khoe.rss",
+					"image":"suckhoe"
+				},
+				{
+					"title":"Giả thật",
+					"topic_link_rss":"https://tuoitre.vn/rss/gia-that.rss",
+					"image":"giathat"
+				},
+				{
+					"title":"Bạn đọc làm báo",
+					"topic_link_rss":"https://tuoitre.vn/rss/ban-doc-lam-bao.rss",
+					"image":"ykien"
+				},
+				{
+					"title":"Thư giãn",
+					"topic_link_rss":"https://tuoitre.vn/rss/thu-gian.rss",
+					"image":"cuoi"
+				},
+				{
+					"title":"Du lịch",
+					"topic_link_rss":"https://tuoitre.vn/rss/du-lich.rss",
+					"image":"dulich"
 				}
 			],
 			"link_rss" : ""
