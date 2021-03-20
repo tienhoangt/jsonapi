@@ -23,87 +23,108 @@
 			"topics" : [
 				{
 					"title":"Trang chủ",
-					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss",
+					"image":"trangchu"
 				},
 				{
 					"title":"Thế giới",
-					"topic_link_rss":"https://vnexpress.net/rss/the-gioi.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/the-gioi.rss",
+					"image":"thegioi"
 				},
 				{
 					"title":"Thời sự",
-					"topic_link_rss":"https://vnexpress.net/rss/thoi-su.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/thoi-su.rss",
+					"image":"thoisu"
 				},
 				{
 					"title":"Kinh doanh",
-					"topic_link_rss":"https://vnexpress.net/rss/kinh-doanh.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/kinh-doanh.rss",
+					"image":"kinhdoanh"
 				},
 				{
 					"title":"Startup",
-					"topic_link_rss":"https://vnexpress.net/rss/startup.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/startup.rss",
+					"image":"startup"
 				},
 				{
 					"title":"Giải trí",
-					"topic_link_rss":"https://vnexpress.net/rss/giai-tri.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/giai-tri.rss",
+					"image":"giaitri"
 				},
 				{
 					"title":"Thể thao",
-					"topic_link_rss":"https://vnexpress.net/rss/the-thao.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/the-thao.rss",
+					"image":"thethao"
 				},
 				{
 					"title":"Pháp luật",
-					"topic_link_rss":"https://vnexpress.net/rss/phap-luat.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/phap-luat.rss",
+					"image":"phapluat"
 				},
 				{
 					"title":"Giáo dục",
-					"topic_link_rss":"https://vnexpress.net/rss/giao-duc.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/giao-duc.rss",
+					"image":"giaoduc"
 				},
 				{
 					"title":"Tin mới nhất",
-					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss",
+					"image":"tinmoinhat"
 				},
 				{
 					"title":"Tin nổi bật",
-					"topic_link_rss":"https://vnexpress.net/rss/tin-noi-bat.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/tin-noi-bat.rss",
+					"image":"tinnoibat"
 				},
 				{
 					"title":"Sức khỏe",
-					"topic_link_rss":"https://vnexpress.net/rss/suc-khoe.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/suc-khoe.rss",
+					"image":"suckhoe"
 				},
 				{
 					"title":"Đời sống",
-					"topic_link_rss":"https://vnexpress.net/rss/gia-dinh.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/gia-dinh.rss",
+					"image":"doisong"
 				},
 				{
 					"title":"Du lịch",
-					"topic_link_rss":"https://vnexpress.net/rss/du-lich.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/du-lich.rss",
+					"image":"dulich"
 				},
 				{
 					"title":"Khoa học",
-					"topic_link_rss":"https://vnexpress.net/rss/khoa-hoc.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/khoa-hoc.rss",
+					"image":"khoahoc"
 				},
 				{
 					"title":"Số hóa",
-					"topic_link_rss":"https://vnexpress.net/rss/so-hoa.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/so-hoa.rss",
+					"image":"sohoa"
 				},
 				{
 					"title":"Xe",
-					"topic_link_rss":"https://vnexpress.net/rss/oto-xe-may.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/oto-xe-may.rss",
+					"image":"xe"
 				},
 				{
 					"title":"Ý kiến",
-					"topic_link_rss":"https://vnexpress.net/rss/y-kien.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/y-kien.rss",
+					"image":"ykien"
 				},
 				{
 					"title":"Tâm sự",
-					"topic_link_rss":"https://vnexpress.net/rss/tam-su.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/tam-su.rss",
+					"image":"tamsu"
 				},
 				{
 					"title":"Cười",
-					"topic_link_rss":"https://vnexpress.net/rss/cuoi.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/cuoi.rss",
+					"image":"cuoi"
 				},
 				{
 					"title":"Tin xem nhiều",
-					"topic_link_rss":"https://vnexpress.net/rss/tin-xem-nhieu.rss"
+					"topic_link_rss":"https://vnexpress.net/rss/tin-xem-nhieu.rss",
+					"image":"tinxemnhieu"
 				}
 			],
 			"link_rss" : ""
@@ -117,7 +138,8 @@
 			"topics" : [
 				{
 					"title":"Trang chủ",
-					"topic_link_rss":"https://tuoitre.vn/rss/tin-moi-nhat.rss"
+					"topic_link_rss":"https://tuoitre.vn/rss/tin-moi-nhat.rss",
+					"image":"trangchu"
 				}
 			],
 			"link_rss" : ""
